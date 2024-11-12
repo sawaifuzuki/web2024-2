@@ -1,2 +1,2 @@
-function imgechange1(){document.getElementById('logo').src='./image/rain.png';}
+function imgchange1(){document.getElementById('logo').src='./image/joukoma.jpg';}
   
