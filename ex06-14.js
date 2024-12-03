@@ -1,4 +1,4 @@
 function imgchange5(){document.getElementById('logo').src='./image/joukoma.jpg';
-                      setTimeout("imgchange5()",3000);}
-
+                      setTimeout("imgchange6()",3000);}
+function imgchange6(){document.getElementById('logo').src='
  
