@@ -1,4 +1,6 @@
-function imgchange5(){document.getElementById('logo').src='./image/josailogo.jpg';}
+function imgchange5(){
+ //表示する画像
+ document.getElementById('logo').src='./image/josailogo.jpg';}
  <h1>練習問題6-14</h1>
  <form name="timer14">
  <img src='./image/josailogo.jpg' id="logo" alt="Josai Logo" class="imagechange">
